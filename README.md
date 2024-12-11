@@ -33,7 +33,7 @@ A dynamic event calendar built with React.js. This app allows users to view, add
 
 You can view the live demo of the app here:
 
-[Live Demo]([https://your-deployed-link.com](https://67592edde8e88e16a3755d50--dynamiceventcalender.netlify.app/))  
+[Live Demo](https://67592edde8e88e16a3755d50--dynamiceventcalender.netlify.app/) 
 
 
 ## Getting Started
